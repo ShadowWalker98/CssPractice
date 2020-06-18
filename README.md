@@ -1,1 +1,1 @@
-Practiing css and git
+Practicing css and git
