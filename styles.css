@@ -1,0 +1,59 @@
+body {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    background-color: lightgray;
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+a {
+    color: maroon;
+    text-decoration: none;
+    
+}
+
+a:hover {
+    color: orangered;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span {
+    font-style: italic;
+    color: hotpink;
+}
+.boxes {
+    margin: 1px;
+    padding: 2px;
+    border-style: solid;
+    border-color: deeppink;
+    border-radius: 25px;
+    width: 30em;
+    display: block;
+}
+
+#box1 {
+    background-color: purple;
+}
+#box2 {
+    background-color: pink;
+    /*position: absolute;
+    bottom: 550px;
+    left: 500px;*/
+}
+#box3 {
+    background-color: papayawhip;
+}
+#box4 {
+    background-color: palevioletred;
+}
+
+.image-holder {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: firebrick;
+    position: relative;
+    left: 70px;
+    top: 50px;
+}
